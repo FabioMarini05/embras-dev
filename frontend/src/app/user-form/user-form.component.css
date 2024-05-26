@@ -1,0 +1,18 @@
+.modal-content label {
+  display: block;
+  margin: 8px 0 4px;
+}
+
+.modal-content input {
+  width: calc(100% - 16px);
+  padding: 8px;
+  border: 1px solid #DEE2E6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+}
